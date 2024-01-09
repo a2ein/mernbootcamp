@@ -410,8 +410,8 @@ outline: none;
 }
 
 .ebox{
-margin-top: rex;
-    padding: 15px;
+margin-top: 2rem;
+   
 justify-content: center;
 flex-direction: row;
     display: flex;
