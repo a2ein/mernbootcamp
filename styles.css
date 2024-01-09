@@ -35,13 +35,6 @@ margin-top: 6rem;
 
    display: inline-flex;
 }
-#hero form .box{
-
-
-
-flex-direction:row ;
-    display:flex ;
-}
 
 .sponsor{
 
@@ -390,4 +383,85 @@ overflow: hidden;
 
 
     margin-top: 0.25rem;
+}
+
+.subbtn{
+    width: 150px;
+    height: 60px;
+    flex-shrink: 0;
+
+border: none;
+
+
+outline: none;
+
+    border-radius: 5px;
+    background: #DB4A87;
+
+
+    color: #FFF;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px; /* 222.222% */
+
+}
+
+.ebox{
+margin-top: rex;
+    padding: 15px;
+justify-content: center;
+flex-direction: row;
+    display: flex;
+}
+.email input{
+    background: #EFF3F7;
+margin-top:1.2rem ;
+border: none;
+    outline: none;
+font-size: 19px;
+    background-color: none;
+    opacity: 0.4;
+
+    color: #02073E;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 400;
+}
+
+.email{
+height: 60px;
+  width: 350px;
+margin-right:1rem ;
+text-align: center;
+    border-radius: 5px;
+    background: #EFF3F7;
+
+}
+
+#hero{
+
+
+    width: 1920px;
+height: auto;
+}
+.canvas{
+
+    width: 830.835px;
+height: 645.258px;
+flex-shrink: 0;
+}
+
+.sec2{
+
+
+
+
+
+
+
+
+    margin-top: 5rem;
 }
