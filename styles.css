@@ -766,6 +766,9 @@ justify-content: space-around;
 align-items: center;
 align-self: center;
 align-content: center;
+
+margin-left: 3.7rem;
+
 }
 
 .thum img{
@@ -947,4 +950,10 @@ margin-top: -3rem;
 background: url('./src/img/mockup\ image.png');
 background-repeat: no-repeat;
 
+}
+
+section{
+
+
+    padding-top: 10rem;
 }
