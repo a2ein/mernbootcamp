@@ -821,3 +821,130 @@ font-weight: 400;
 line-height: 30px; /* 214.286% */
 opacity: 0.9;
 }
+.orghead{
+    color: #0F2137;
+    font-family: DM Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 157.895% *//* 157.895% */
+margin-left: 3rem;
+padding-top: 2rem;
+
+}
+.orgsub{margin-left: 3rem;
+padding-top: 1rem;  
+    color: #343D48;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 200% */
+width: 460px;
+height: 90px;
+flex-shrink: 0;
+}
+.org{
+margin-bottom: 2.4rem;
+
+    margin-top: 3rem;
+width: 550px;
+height: 200px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 9px 30px 0px rgba(69, 88, 157, 0.08);
+display: inline-block;
+}
+.orgli{
+    border-radius: 10px;
+    background: #F6F8FB;
+    width: 560px;
+    height: 60px;
+    margin-top: 1rem;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.oralign{
+
+
+
+    color: #0F2137;
+    font-family: DM Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 157.895% */
+display: inline-block;
+
+
+    padding-top: 1rem;
+}
+.orgli span{
+align-self: center;
+margin-left: 2.6rem;
+width: 372px;
+height: 30px;
+flex-shrink: 0;
+}
+
+.orghead svg{
+margin-left: 8.9rem;
+    width: 15px;
+height: 15px;
+flex-shrink: 0;
+}
+.orgli svg{
+
+align-self: center;
+fill: #0F2137;
+
+
+
+margin-left: 11rem;
+
+
+}
+.headsec3{
+    color: #0F2137;
+    font-family: Crimson Text;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px; /* 125% */
+    letter-spacing: -1px;
+
+
+
+}
+
+.subsec3{
+    width: 478px;
+
+margin-top: 2.5rem;
+
+    color: #0F2137;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px; /* 218.75% */
+}
+
+.main3{
+align-self: right;
+margin-left: 40rem;
+display: inline-block;
+margin-top: -3rem;
+
+
+}
+
+.section3{
+
+    background-size: contain;
+background: url('./src/img/mockup\ image.png');
+background-repeat: no-repeat;
+
+}
