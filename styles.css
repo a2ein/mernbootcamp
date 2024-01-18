@@ -291,7 +291,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 33px;
-    margin-left: -20rem;
+    margin-left: -20rem; 
     display: inline-flex;
     list-style: none;
     margin-top: 4px;
@@ -1029,14 +1029,21 @@ html::-webkit-scrollbar-button {
     text-align: center;
     align-items: center;
 
-    margin-top: 5rem;
+    margin-top: 4rem;
 }
+.btmul{
 
-.bottom .icon {
+margin-left: -10rem;
+    margin-top: 5rex;
+}
+.bottom .btmul .ihn {
     gap: 2rem;
     display: inline-block;
 }
+.ihn{
 
+    margin-top: -1rem;
+}
 .logocopy {
     padding: 0.7rem;
 
@@ -1080,8 +1087,7 @@ html::-webkit-scrollbar-button {
     /* 37.5px */
 }
 
-.downblock {
-
+ .downblock{
 
     flex-direction: row;
     justify-content: space-around;
