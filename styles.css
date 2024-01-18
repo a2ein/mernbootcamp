@@ -839,17 +839,9 @@ text-align: left;
 }
 
 
- input[type="checkbox"] { border: none;outline: none;border-width: 0;
-    width: 16px;
-    height: 16px;
-    border-radius: 4px;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    -ms-border-radius: 4px;
-    -o-border-radius: 4px;
-}
+
 .lial {
-    list-style:none;
+    list-style: url('/src/img/BG\ \(2\).png');
     margin-left: 24.6rem;
     margin-top: -2.7rem;
     color: #9095AD;
