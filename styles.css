@@ -475,7 +475,7 @@ text-align: left;
 
 .ebox {
     margin-top: 2rem;
-    margin-left: -5rem;
+    margin-left: 22rem;
     margin-bottom: 3rem;
     justify-content: center;
     flex-direction: row;
@@ -819,7 +819,11 @@ text-align: left;
 
 
 }
+.container72{
 
+    background: url('./new/Screenshot\ 2024-01-18\ 234305.png');
+    background-repeat: no-repeat;
+}
 .cont7 {
     width: 950px;
     height: 120px;
@@ -837,7 +841,7 @@ text-align: left;
 
 
 .lial {
-    margin-left: 11rem;
+    margin-left: 24.6rem;
     margin-top: -2.7rem;
     list-style-image: url(/src/img/BG\ \(2\).png);
     color: #9095AD;
